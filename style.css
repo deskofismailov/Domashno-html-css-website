@@ -1,0 +1,21 @@
+body {
+    background-color: #499472;
+    color: #F0F0E8;
+}
+
+h1 {
+    font-size:50px;
+}
+h2 {
+    color:#052ea9;
+    font-size:30px;  
+}
+li {
+    color:#010b00;
+    font: size 20px;
+    font-weight:Bold;
+}
+h3 {
+    color:#052ea9;
+    font-size:25px;
+}
